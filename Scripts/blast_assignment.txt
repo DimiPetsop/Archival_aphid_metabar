@@ -1,0 +1,1 @@
+blastn -query ./Data/Processed/aphids_fasta.fasta -db ./Data/Proccessed/Raw/MIDORI2_UNIQ_NUC_GB259_CO1_BLAST/MIDORI2_UNIQ_NUC_GB259_CO1_BLAST -max_target_seqs 50 -num_threads 13 -evalue 0.000001 -outfmt "6 qseqid sseqid stitle pident length mismatch gapopen qstart qend qlen sstart send evalue bitscore qcovs" -out output_aphids_259
