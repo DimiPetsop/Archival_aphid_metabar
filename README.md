@@ -6,4 +6,4 @@ You can download the raw sequence files here:
 
 There are multiple steps required which can be followed bellow:
 - To demultiplex we used MetaBeat: https://github.com/HullUni-bioinformatics/metaBEAT
-- After demultiplexing 
+- After demultiplexing run: (/Scripts/Trimming_dada.R)
