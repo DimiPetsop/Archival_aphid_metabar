@@ -6,4 +6,5 @@ You can download the raw sequence files here:
 
 There are multiple steps required which can be followed bellow:
 - To demultiplex we used MetaBeat: https://github.com/HullUni-bioinformatics/metaBEAT
-- After demultiplexing run: [link](/Scripts/Trimming_dada.R)
+- After demultiplexing run: [Trimming_dada.R](/Scripts/Trimming_dada.R)
+- Then run blastn on the [command line] (/Scripts/blast_assignment.txt)
