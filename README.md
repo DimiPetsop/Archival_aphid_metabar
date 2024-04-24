@@ -4,7 +4,7 @@
 
 You can download the raw sequence files from [Zenodo](https://zenodo.org/records/10995475)
 
-There are multiple steps required which can be followed bellow:
+There are multiple steps required which are summarised bellow:
 - To demultiplex we used MetaBeat: https://github.com/HullUni-bioinformatics/metaBEAT
 After installation you can use the tool on the command line with the pattern file in Raw files. For example you can run:
 ```metabeat
