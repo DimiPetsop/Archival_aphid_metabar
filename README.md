@@ -1,6 +1,6 @@
 # Archival_aphid_metabar
 
-### This repository includes all scripts required to reproduce the analyses, statistics and figures included in the article: ###
+### This repository includes all scripts required to reproduce the analyses, statistics and figures included in the article: [Identifying archived insect bulk samples using DNA metabarcoding: A case study using the long-term Rothamsted Insect Survey](https://doi.org/10.1002/edn3.542)
 
 You can download the raw sequence files from [Zenodo](https://zenodo.org/records/10995475)
 
