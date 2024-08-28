@@ -126,7 +126,7 @@ filtRs <- file.path(path, "filtered", paste0(sample.names, "_reverse.paired.fast
 
 sample.names
 out <- filterAndTrim(cutFs, filtFs, cutRs, filtRs, maxN = 0, maxEE = c(2, 2),
-                     truncQ = 2, minLen = 200, rm.phix = TRUE, compress = TRUE, multithread = TRUE)  # on windows, set multithread = FALSE
+                     truncQ = 2, minLen = 200, rm.phix = TRUE, compress = TRUE, multithread = TRUE,matchIDs=TRUE)  # on windows, set multithread = FALSE
 
 out 
 
